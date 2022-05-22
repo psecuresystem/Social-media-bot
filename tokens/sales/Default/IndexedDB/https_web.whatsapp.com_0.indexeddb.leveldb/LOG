@@ -1,0 +1,52 @@
+2022/05/21-19:23:48.927 1a4a1 Reusing MANIFEST /home/dr/Desktop/social-bot/tokens/sales/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/21-19:23:48.928 1a4a1 Recovering log #721
+2022/05/21-19:23:48.963 1a4a1 Reusing old log /home/dr/Desktop/social-bot/tokens/sales/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000721.log 
+2022/05/21-19:57:27.714 1a4a3 Compacting 1@1 + 5@2 files
+2022/05/21-19:57:27.860 1a4a3 Generated table #736@1: 106716 keys, 2261431 bytes
+2022/05/21-19:57:28.026 1a4a3 Generated table #737@1: 106931 keys, 2260357 bytes
+2022/05/21-19:57:28.176 1a4a3 Generated table #738@1: 107083 keys, 2260217 bytes
+2022/05/21-19:57:28.319 1a4a3 Generated table #739@1: 92198 keys, 1955823 bytes
+2022/05/21-19:57:28.319 1a4a3 Compacted 1@1 + 5@2 files => 8737828 bytes
+2022/05/21-19:57:28.420 1a4a3 compacted to: files[ 0 0 17 0 0 0 0 ]
+2022/05/21-19:57:28.420 1a4a3 Delete type=2 #672
+2022/05/21-19:57:28.420 1a4a3 Delete type=2 #674
+2022/05/21-19:57:28.420 1a4a3 Delete type=2 #675
+2022/05/21-19:57:28.420 1a4a3 Delete type=2 #724
+2022/05/21-19:57:28.420 1a4a3 Delete type=2 #676
+2022/05/21-19:57:28.420 1a4a3 Delete type=2 #677
+2022/05/21-19:57:28.684 1b41c Level-0 table #741: started
+2022/05/21-19:57:28.774 1b41c Level-0 table #741: 1170740 bytes OK
+2022/05/21-19:57:28.832 1b41c Delete type=0 #721
+2022/05/21-19:57:29.608 1b61a Compacting 1@0 + 0@1 files
+2022/05/21-19:57:29.711 1b61a Generated table #742@0: 21340 keys, 506787 bytes
+2022/05/21-19:57:29.746 1b61a Generated table #743@0: 247 keys, 9448 bytes
+2022/05/21-19:57:29.746 1b61a Compacted 1@0 + 0@1 files => 516235 bytes
+2022/05/21-19:57:29.781 1b61a compacted to: files[ 0 2 17 0 0 0 0 ]
+2022/05/21-19:57:29.781 1b61a Delete type=2 #741
+2022/05/21-19:58:59.345 1b61a Compacting 1@1 + 12@2 files
+2022/05/21-19:58:59.449 1b61a Generated table #744@1: 32619 keys, 2268376 bytes
+2022/05/21-19:58:59.573 1b61a Generated table #745@1: 43344 keys, 2217351 bytes
+2022/05/21-19:58:59.649 1b61a Generated table #746@1: 2375 keys, 2146453 bytes
+2022/05/21-19:58:59.741 1b61a Generated table #747@1: 1197 keys, 2121188 bytes
+2022/05/21-19:58:59.825 1b61a Generated table #748@1: 21361 keys, 2220408 bytes
+2022/05/21-19:58:59.892 1b61a Generated table #749@1: 4496 keys, 2130175 bytes
+2022/05/21-19:58:59.959 1b61a Generated table #750@1: 2853 keys, 2117359 bytes
+2022/05/21-19:59:00.026 1b61a Generated table #751@1: 2766 keys, 2118135 bytes
+2022/05/21-19:59:00.118 1b61a Generated table #752@1: 71121 keys, 2210440 bytes
+2022/05/21-19:59:00.227 1b61a Generated table #753@1: 107746 keys, 2262169 bytes
+2022/05/21-19:59:00.294 1b61a Generated table #754@1: 40515 keys, 866700 bytes
+2022/05/21-19:59:00.294 1b61a Compacted 1@1 + 12@2 files => 22678754 bytes
+2022/05/21-19:59:00.344 1b61a compacted to: files[ 0 1 16 0 0 0 0 ]
+2022/05/21-19:59:00.345 1b61a Delete type=2 #729
+2022/05/21-19:59:00.345 1b61a Delete type=2 #727
+2022/05/21-19:59:00.345 1b61a Delete type=2 #731
+2022/05/21-19:59:00.345 1b61a Delete type=2 #726
+2022/05/21-19:59:00.345 1b61a Delete type=2 #719
+2022/05/21-19:59:00.345 1b61a Delete type=2 #730
+2022/05/21-19:59:00.345 1b61a Delete type=2 #725
+2022/05/21-19:59:00.345 1b61a Delete type=2 #692
+2022/05/21-19:59:00.345 1b61a Delete type=2 #732
+2022/05/21-19:59:00.345 1b61a Delete type=2 #734
+2022/05/21-19:59:00.345 1b61a Delete type=2 #728
+2022/05/21-19:59:00.345 1b61a Delete type=2 #742
+2022/05/21-19:59:00.345 1b61a Delete type=2 #733

@@ -1,0 +1,36 @@
+2022/05/21-19:22:07.159 1a0b4 Reusing MANIFEST /home/dr/Desktop/social-bot/tokens/sales/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/21-19:22:07.160 1a0b4 Recovering log #706
+2022/05/21-19:22:07.242 1a0b4 Reusing old log /home/dr/Desktop/social-bot/tokens/sales/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000706.log 
+2022/05/21-19:22:19.679 1a0b7 Level-0 table #722: started
+2022/05/21-19:22:19.772 1a0b7 Level-0 table #722: 1161370 bytes OK
+2022/05/21-19:22:19.806 1a0b7 Delete type=0 #706
+2022/05/21-19:22:21.525 1a0b7 Compacting 1@0 + 1@1 files
+2022/05/21-19:22:21.608 1a0b7 Generated table #723@0: 16370 keys, 449268 bytes
+2022/05/21-19:22:21.650 1a0b7 Generated table #724@0: 532 keys, 13507 bytes
+2022/05/21-19:22:21.650 1a0b7 Compacted 1@0 + 1@1 files => 462775 bytes
+2022/05/21-19:22:21.680 1a0b7 compacted to: files[ 0 2 17 0 0 0 0 ]
+2022/05/21-19:22:21.681 1a0b7 Delete type=2 #722
+2022/05/21-19:22:21.681 1a0b7 Delete type=2 #709
+2022/05/21-19:22:22.614 1a0b2 Compacting 1@1 + 9@2 files
+2022/05/21-19:22:22.743 1a0b2 Generated table #725@1: 32676 keys, 2266511 bytes
+2022/05/21-19:22:22.835 1a0b2 Generated table #726@1: 40364 keys, 2211198 bytes
+2022/05/21-19:22:22.917 1a0b2 Generated table #727@1: 2705 keys, 2149749 bytes
+2022/05/21-19:22:22.995 1a0b2 Generated table #728@1: 855 keys, 2154887 bytes
+2022/05/21-19:22:23.146 1a0b2 Generated table #729@1: 24621 keys, 2228813 bytes
+2022/05/21-19:22:23.230 1a0b2 Generated table #730@1: 1198 keys, 2114331 bytes
+2022/05/21-19:22:23.383 1a0b2 Generated table #731@1: 3331 keys, 2120475 bytes
+2022/05/21-19:22:23.682 1a0b2 Generated table #732@1: 2752 keys, 2120593 bytes
+2022/05/21-19:22:24.015 1a0b2 Generated table #733@1: 79373 keys, 2221151 bytes
+2022/05/21-19:22:24.241 1a0b2 Generated table #734@1: 11058 keys, 231701 bytes
+2022/05/21-19:22:24.241 1a0b2 Compacted 1@1 + 9@2 files => 19819409 bytes
+2022/05/21-19:22:24.640 1a0b2 compacted to: files[ 0 1 18 0 0 0 0 ]
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #711
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #715
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #723
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #716
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #718
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #712
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #710
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #717
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #714
+2022/05/21-19:22:24.640 1a0b2 Delete type=2 #713

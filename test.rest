@@ -1,0 +1,17 @@
+POST https://vjgy8m.api.infobip.com/sms/2/text/advanced
+Authorization: App 3c827aa89492bdbae5aeb06794a6bad7-48a43f41-126a-45ad-abcd-69402207109d
+Content-Type: application/json
+
+{
+    "messages": [
+        {
+            "destinations": [
+                {
+                    "to": "2348112907883"
+                }
+            ],
+            "from": "Vision",
+            "text": "This is a sample message"
+        }
+    ]
+}
